@@ -39,13 +39,13 @@ name = "biome_parser"
 path = "src/lib.rs"
 
 [dependencies.biome_console]
-version = "0.5.7"
+version = "0.7.0"
 
 [dependencies.biome_diagnostics]
-version = "0.5.7"
+version = "0.7.0"
 
 [dependencies.biome_rowan]
-version = "0.5.7"
+version = "0.7.0"
 
 [dependencies.biome_unicode_table]
 version = "0.5.7"
